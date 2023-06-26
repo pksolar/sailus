@@ -1,0 +1,3 @@
+
+names = locals()
+name

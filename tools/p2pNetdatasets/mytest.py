@@ -1,0 +1,1 @@
+print("{:05d}".format(1))

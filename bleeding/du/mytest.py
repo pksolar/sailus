@@ -1,0 +1,1 @@
+print(int("12.44".float()))
